@@ -1,0 +1,584 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  height: 4023px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.footer {
+  background-color: #000000;
+  height: 448px;
+  left: 0;
+  position: absolute;
+  top: 3575px;
+  width: 100%;
+}
+
+.group {
+  height: 33px;
+  left: 1345px;
+  position: relative;
+  top: 370px;
+  width: 73px;
+}
+
+.text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .don-t-wait {
+  height: 413px;
+  left: 259px;
+  position: absolute;
+  top: 2845px;
+  width: 924px;
+}
+
+.home .group-2 {
+  height: 95px;
+  left: 306px;
+  position: absolute;
+  top: 0;
+  width: 314px;
+}
+
+.home .text-wrapper-3 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.text-wrapper-4 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 165px;
+  width: 922px;
+}
+
+.div-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 351px;
+  padding: 13px 30px;
+  position: absolute;
+  top: 368px;
+  width: 219px;
+}
+
+.text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home .carousel-horizontal {
+  height: 618px;
+  left: 24px;
+  position: absolute;
+  top: 2000px;
+  width: 1992px;
+}
+
+.home .image {
+  height: 362px;
+  left: 1344px;
+  position: absolute;
+  top: 170px;
+  width: 650px;
+}
+
+.home .rectangle {
+  height: 762px;
+  left: -200px;
+  position: absolute;
+  top: -196px;
+  width: 272px;
+}
+
+.home .text-wrapper-6 {
+  color: #fafafa;
+  font-family: "Rubik", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 283px;
+  white-space: nowrap;
+}
+
+.home .overlap-group-wrapper {
+  height: 362px;
+  left: 0;
+  position: absolute;
+  top: 170px;
+  width: 650px;
+}
+
+.home .overlap-group {
+  background-image: url(https://c.animaapp.com/bdSE94EB/img/rectangle-2-3.svg);
+  background-size: 100% 100%;
+  height: 762px;
+  left: -24px;
+  position: relative;
+  top: -196px;
+  width: 872px;
+}
+
+.home .text-wrapper-7 {
+  color: #fafafa;
+  font-family: "Rubik", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 479px;
+  white-space: nowrap;
+}
+
+.home .overlap-wrapper {
+  height: 362px;
+  left: 672px;
+  position: absolute;
+  top: 170px;
+  width: 650px;
+}
+
+.home .overlap {
+  background-image: url(https://c.animaapp.com/bdSE94EB/img/rectangle-2-2.svg);
+  background-size: 100% 100%;
+  height: 762px;
+  left: -200px;
+  position: relative;
+  top: -196px;
+  width: 944px;
+}
+
+.home .text-wrapper-8 {
+  color: #fafafa;
+  font-family: "Rubik", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 347px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 479px;
+  white-space: nowrap;
+}
+
+.home .group-3 {
+  height: 95px;
+  left: 537px;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.home .text-wrapper-9 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+}
+
+.home .group-4 {
+  height: 18px;
+  left: 555px;
+  position: absolute;
+  top: 600px;
+  width: 282px;
+}
+
+.home .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 9px;
+  height: 18px;
+  left: 94px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home .ellipse-2 {
+  background-color: #d9d9d9;
+  border-radius: 9px;
+  height: 18px;
+  left: 128px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home .ellipse-3 {
+  background-color: #d9d9d9;
+  border-radius: 9px;
+  height: 18px;
+  left: 162px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home .ellipse-4 {
+  background-color: #d9d9d9;
+  border-radius: 9px;
+  height: 18px;
+  left: 196px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home .ellipse-5 {
+  background-color: #d9d9d9;
+  border-radius: 9px;
+  height: 18px;
+  left: 230px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home .ellipse-6 {
+  background-color: #d9d9d9;
+  border-radius: 9px;
+  height: 18px;
+  left: 264px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home .rectangle-wrapper {
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.home .rectangle-2 {
+  background-color: #000000;
+  border-radius: 10px;
+  height: 18px;
+  width: 57px;
+}
+
+.home .overlap-2 {
+  height: 1950px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.home .banner {
+  height: 1440px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.home .overlap-3 {
+  background-image: url(https://c.animaapp.com/bdSE94EB/img/unsplash-yj1m5rickk4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1440px;
+  position: relative;
+  width: 100%;
+}
+
+.home .button {
+  left: 637px !important;
+  position: absolute !important;
+  top: 384px !important;
+}
+
+.home .p {
+  color: #fafafa;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 494px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 315px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-10 {
+  color: #fafafa;
+  font-family: "Rubik", Helvetica;
+  font-size: 96px;
+  font-weight: 500;
+  left: 327px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 201px;
+  white-space: nowrap;
+}
+
+.home .carousel-vertical {
+  height: 767px;
+  left: 141px;
+  position: absolute;
+  top: 1183px;
+  width: 1158px;
+}
+
+.home .overlap-4 {
+  height: 1117px;
+  left: -141px;
+  position: relative;
+  top: -146px;
+  width: 1440px;
+}
+
+.home .img {
+  height: 1047px;
+  left: 57px;
+  position: absolute;
+  top: 70px;
+  width: 1324px;
+}
+
+.home .image-2 {
+  height: 1047px;
+  left: 19px;
+  position: absolute;
+  top: 40px;
+  width: 1400px;
+}
+
+.home .image-3 {
+  height: 1047px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home .image-4 {
+  height: 647px;
+  left: 141px;
+  position: absolute;
+  top: 146px;
+  width: 1162px;
+}
+
+.home .overlap-group-2 {
+  background-image: url(https://c.animaapp.com/bdSE94EB/img/rectangle-2-1.svg);
+  background-size: 100% 100%;
+  height: 1047px;
+  left: -141px;
+  position: relative;
+  top: -196px;
+  width: 1440px;
+}
+
+.home .text-wrapper-11 {
+  color: #fafafa;
+  font-family: "Rubik", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  left: 542px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 693px;
+  width: 354px;
+}
+
+.home .text-wrapper-12 {
+  color: #fafafa;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 615px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 777px;
+  width: 209px;
+}
+
+.header {
+  -webkit-backdrop-filter: blur(70px) brightness(100%);
+  backdrop-filter: blur(70px) brightness(100%);
+  background-color: #000000b2;
+  height: 70px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.group-5 {
+  height: 33px;
+  left: 24px;
+  position: absolute;
+  top: 18px;
+  width: 73px;
+}
+
+.navbar {
+  height: 19px;
+  left: 461px;
+  position: absolute;
+  top: 25px;
+  width: 525px;
+}
+
+.text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 162px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 333px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 454px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .frame-1 {
+  left: 1251px !important;
+  position: absolute !important;
+  top: 12px !important;
+}
+
+.register-btn {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 4px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  left: 351px;
+  padding: 15px 18px;
+  margin-top: 10px;
+  border: 1px solid white;
+  margin-left: 84%;
+  width: 200px;
+}
