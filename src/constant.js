@@ -3,7 +3,7 @@ export const images = [
 
   "https://s3-alpha-sig.figma.com/img/8a7f/5497/aea615b4074cdeee86b0dccb5d24b6e6?Expires=1699833600&Signature=hwyXM2cgoPxuXZ5BOueMMcHu6N~rTNolZu-gG-O4~Nr0VXdgPjngJGsLfQVH-ZvKuUlg9z86uwXv~CSkxv1h0ONbiyQ41TFD~c392i7sGtUk0Cvmo~2WQgYqAInBjWqvaPYMDL-Uj8I6Cf81bIjGhLlmdtww5eGBPxSrdXc94S6LGHnSXgyIHalhpUOsBrTP7OCv2yocpBgJddJQMTV2uMFoG1EMrFqyQyJmNBwQPQxwsY6jqPmaIF-H-jHvaHlkLNU1xQ065euux3oFoCqamGmiWAqc~RM4ZdqiEl0TPJjTjcLEFykH0D61OR0DxGRvxvV~ZIMtuovK7cAMDnrHSg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
   "https://s3-alpha-sig.figma.com/img/f357/684a/e2c8636a789be85c271dbe6dcd8c53b0?Expires=1699833600&Signature=HhmCydiauWx8FqHcHRW9ud17J5xssKfKZX8briAerCzM6gyMP3lZeQ0ZLwkzZq6iZ99Xwo7rfKvBgzyfs7EepS39M1hzXO1hx2RXgELyw81qRvHos8hWzwY4tvuc9VrEkmwF-U~rFoTYhoTLJzZKVrwrGvrrWMt993vNdgW5~ztsSg8~4wF6XYTU8DjH6bmcDGKm3sQPIGxA4y10m17E8GeS3S2BvrUcZSL0yL96bIgB~IZrURUuAgpiZby9yGATYI9bI6Hg7m4Vnb1vfMcojPVcQ6yMxH7nHTYIJfRMb3Co5Olsc6mFBjHTS47xWnorVCVJ~fSREBEIv89Q7Wyh1Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-  "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  // "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
 ];
 
 export const imagesCrousel = [
