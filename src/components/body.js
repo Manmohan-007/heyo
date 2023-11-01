@@ -14,6 +14,9 @@ export const Body = () => {
               <p className="p">
                 We are Heyo. We take you the space, register now to see how!
               </p>
+              <div className="register-btn">
+                <div className="text-wrapper-5">Register Now</div>
+              </div>
             </div>
           </div>
         </div>

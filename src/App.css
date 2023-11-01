@@ -222,6 +222,7 @@
 
 .group-3 {
   height: 95px;
+  margin-bottom: 4rem;
 }
 
 .home .text-wrapper-9 {
@@ -243,6 +244,7 @@
   display: flex;
   justify-content: center;
   width: 100%;
+  margin-top: 45rem;
 }
 
 .home .ellipse {
@@ -342,7 +344,12 @@
   height: 1440px;
   position: relative;
   width: 100%;
-  padding-top: 25rem;
+  padding-top: 20rem;
+}
+
+.overlap-3 > .register-btn {
+  margin: auto;
+  margin-top: 4rem;
 }
 
 .home .button {
@@ -477,7 +484,7 @@
   z-index: 100;
   display: flex;
   align-items: center;
-  padding: 1rem;
+  padding: 1rem 3rem;
   justify-content: space-between;
 }
 
@@ -493,6 +500,7 @@
   display: flex;
   width: 55rem;
   justify-content: space-between;
+  margin-left: 8rem;
 }
 .navbar > div {
 }
